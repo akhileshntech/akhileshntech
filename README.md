@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akhilesh 👋</h1>
 
 <p align="center">
-  <b>QA Engineer moving into SDET roles</b><br>
+  <b>🚀 SDET | QA Engineer | 4+ Years in Automation Testing</b><br>
   I build test automation frameworks, run them in CI, and publish the reports.
 </p>
 
